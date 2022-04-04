@@ -1,0 +1,27 @@
+@media (max-width: 767px){
+    .header-content{
+        position: relative;
+    }
+    .menu{
+        background: chocolate;
+        width: 100%;
+        position: absolute;
+        top: 10%;
+        left: 0;
+        display: none;
+    }
+    .menu ul{
+        display: block;
+    }
+    .mobile-icon{
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+    }
+    .mobile-icon{
+        padding: 10px 0;
+    }
+
+    /* ---------------------- */
+    
+}
